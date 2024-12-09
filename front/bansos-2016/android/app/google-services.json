@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286757499785",
+    "project_id": "bansos-2016",
+    "storage_bucket": "bansos-2016.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286757499785:android:cdf26c69caddc22b9f2758",
+        "android_client_info": {
+          "package_name": "com.example.bansos_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4OuAjJQJs-xywjQXJa1aSbOStZcPPTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
